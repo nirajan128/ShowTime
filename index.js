@@ -37,7 +37,7 @@ app.get("/", async (req,res)=>{
          search_result:'',
          index :response.data
     });
-     console.log(response.data.image)
+     console.log(response.data)
 })
 
 //5  get show list according to the region 
