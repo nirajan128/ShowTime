@@ -1,5 +1,4 @@
 DOCUMENTATION
-In terminal
 
 1. npm install
 2. nodemon index.js
